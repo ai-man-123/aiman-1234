@@ -1,6 +1,6 @@
 let fs = require('fs')
 let chalk = require('chalk')
-global.owner = ['6287755080455', '62882003806038'] // Nomor Owner
+global.owner = ['62858494890655', '60102810046'] // Nomor Owner
 global.autoread = false // false untuk menonaktifkan autoread, true untuk menyalakan autoread
 global.selfmode = false // false = Mode Publik, true = Mode Self
 global.thumb = './thumb/itsuki.jpg'
